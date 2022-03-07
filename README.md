@@ -1,9 +1,9 @@
 # FESA-EC-LP3-EC-CORDOVA1
 Example Hybrid mobile app with Cordova - GEO plugin
 
-´´´
+<pre>
 cordova plugin add cordova-plugin-geolocation
-´´´
+</pre>
 
 Referência:
 
